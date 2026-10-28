@@ -30,7 +30,8 @@ The system is intended to reduce administrative workload while preserving clinic
 * Draft clinical summaries
 * Key clinical details for clinician verification
 * A record of review and correction, where supported
-* The system must not be assumed to have access to every listed data source. Actual integrations and data flows would require verification.
+* The system must not be assumed to have access to every listed data source.
+* Actual integrations and data flows would require verification.
 
 5. Intended Use and Limitations
 
@@ -39,24 +40,24 @@ Potential failure modes include omitted symptoms, inaccurate summaries, fabricat
 
 6. Initial Stakeholders
 
-Clinical operations
-Healthcare provider or deploying organization
-AI system provider
-Information security
-Privacy and compliance
-Clinical safety leadership
-Patients whose information may be processed
+* Clinical operations
+* Healthcare provider or deploying organization
+* AI system provider
+* Information security
+* Privacy and compliance
+* Clinical safety leadership
+* Patients whose information may be processed
 
 7. Initial Risk Considerations
 
-Inaccurate or incomplete clinical summaries
-Exposure of protected health information
-Unauthorized access to patient records
-Prompt injection or manipulation of model inputs
-Unequal performance across patient populations
-Inadequate clinician review or automation bias
-Insufficient logging, monitoring, or incident response
-Unclear accountability for system failures
+* Inaccurate or incomplete clinical summaries
+* Exposure of protected health information
+* Unauthorized access to patient records
+* Prompt injection or manipulation of model inputs
+* Unequal performance across patient populations
+* Inadequate clinician review or automation bias
+* Insufficient logging, monitoring, or incident response
+* Unclear accountability for system failures
 
 8. Governance Assumptions and Open Questions
 
