@@ -6,18 +6,18 @@ This simulated use case that demonstrates a structured risk assessment for an AI
 Below are the listed assessment frameworks and its applicability.
 * NIST AI RMF: Govern, Map, Measure, Manage
 * EU AI act: Regulatory applicability and obligations
-ISO/IEC 27090: AI Cybersecurity Risk
-ISO/IEC 42001: AI management system governance
-CHAI: Coalition for Health AI assurance guidance
-HIPAA: applicable protection of health information
+* ISO/IEC 27090: AI Cybersecurity Risk
+* ISO/IEC 42001: AI management system governance
+* CHAI: Coalition for Health AI assurance guidance
+* HIPAA: applicable protection of health information
 
 **Project Deliverables**
-Analyze AI system profile and its intended use
-Gap Analysis for documented AI systems and shadow AI
-Risk register and prioritization
-Cross framework and control mapping
-Propose mitigations and remediation cycle
-Human oversight and escalation criteria
-Executive summary and continous monitoring
+* Analyze AI system profile and its intended use
+* Gap Analysis for documented AI systems and shadow AI
+* Risk register and prioritization
+* Cross framework and control mapping
+* Propose mitigations and remediation cycle
+* Human oversight and escalation criteria
+* Executive summary and continous monitoring
 
 _This is a simiulated case study, not a real clinical assessment, compliance certification, or independent assurance engagement._
