@@ -4,8 +4,8 @@ Healthcare AI Risk assessment aligned with NIST AI RMF, EU AI act, ISO/IEC 27090
 **Purpose**
 This simulated use case that demonstrates a structured risk assessment for an AI powered healthcare application using the following regulations and frameworks such as NIST AI RMF, EU AI act, CHAI, HIPAA, etc. 
 Below are the listed assessment frameworks and its applicability.
-*NIST AI RMF: Govern, Map, Measure, Manage
-EU AI act: Regulatory applicability and obligations
+* NIST AI RMF: Govern, Map, Measure, Manage
+* EU AI act: Regulatory applicability and obligations
 ISO/IEC 27090: AI Cybersecurity Risk
 ISO/IEC 42001: AI management system governance
 CHAI: Coalition for Health AI assurance guidance
