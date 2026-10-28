@@ -20,4 +20,4 @@ Propose mitigations and remediation cycle
 Human oversight and escalation criteria
 Executive summary and continous monitoring
 
-_This is a simiulated case study, not a real clinical assessment, compliance certification, or independent assuarnce engagement._
+_This is a simiulated case study, not a real clinical assessment, compliance certification, or independent assurance engagement._
