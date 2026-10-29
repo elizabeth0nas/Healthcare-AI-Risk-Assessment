@@ -43,7 +43,7 @@ Proposed controls
 Proposed owner
 
 | Risk ID | Risk scenario | Potential Impact | Likelihood | Impact | Inherent Score | Proposed controls | Proposed owner
-|---|---|---:|---:|---:|---|---|
+|---|---|---:|---:|---:|---|---|---|
 | R-01 | Inaccurate clinical summary | 3 | 5 | 15 — High | Clinician verification; source-to-summary checks; testing against representative clinical cases; correction and escalation workflow | Clinical safety lead|
 
 | R-02 | Patient data exposure | 3 | 5 | 15 — High | Least-privilege access; encryption; approved data-processing arrangements; retention limits; access logging | Security and privacy leads|
