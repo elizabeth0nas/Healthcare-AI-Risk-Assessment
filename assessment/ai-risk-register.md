@@ -69,7 +69,8 @@ Proposed owner
 
 5. Residual Risk Assessment
 
-Residual scores have not yet been assigned. They must be determined after control implementation and effectiveness testing. A reduction in risk must not be assumed merely because a control is documented.
+Residual scores have not yet been assigned. They must be determined after control implementation and effectiveness testing. 
+A reduction in risk must not be assumed merely because a control is documented.
 
 6. Framework Alignment
 
