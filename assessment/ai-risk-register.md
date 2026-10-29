@@ -42,7 +42,7 @@ Inherent score
 Proposed controls
 Proposed owner
 
-| Risk ID | Risk scenario | Likelihood | Impact | Score |
+| Risk ID | Risk scenario | Potential Impact | Likelihood | Impact | Proposed Score | Proposed owner
 |---|---|---:|---:|---:|
 | R-01 | Inaccurate clinical summary | 3 | 5 | 15 — High |
 | R-02 | Patient data exposure | 3 | 5 | 15 — High |
