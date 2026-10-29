@@ -56,15 +56,10 @@ Proposed owner
 4. Risk Treatment Principles
 
 - Prioritize risks that could cause severe patient harm or expose sensitive information.
-
 - Assign each risk to an accountable owner.
-
 - Record the evidence required to verify that proposed controls operate effectively.
-
 - Reassess likelihood and impact after controls have been implemented and tested.
-
-- Escalate risks that exceed the organization's approved risk tolerance.
-
+- Escalate risks that exceed the organization's approved risk tolerance
 - Do not treat a proposed control as implemented or effective until supporting evidence is reviewed.
 
 5. Residual Risk Assessment
