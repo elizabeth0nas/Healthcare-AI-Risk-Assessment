@@ -44,11 +44,11 @@ Proposed owner
 
 | Risk ID | Risk scenario | Potential Impact | Likelihood | Impact | Inherent Score | Proposed controls | Proposed owner
 |---|---|---:|---:|---:|---|---|---|
-| R-01 | Inaccurate clinical summary | 3 | 5 | 15 — High | Clinician verification; source-to-summary checks; testing against representative clinical cases; correction and escalation workflow | Clinical safety lead|
+| R-01 | AI omits or changes clinically significant details in a summary | Inaccurate clinical summary | 3 | 5 | High | Clinician verification; source-to-summary checks; testing against representative clinical cases; correction and escalation workflow | Clinical safety lead|
 
-| R-02 | Patient data exposure | 3 | 5 | 15 — High | Least-privilege access; encryption; approved data-processing arrangements; retention limits; access logging | Security and privacy leads|
+| R-02 | Patient information is disclosed to an unauthorized party | Patient data exposure | 3 | 5 | 15 — High | Least-privilege access; encryption; approved data-processing arrangements; retention limits; access logging | Security and privacy leads|
 
-| R-03 | Unauthorized access | 3 | 5 | 15 — High | Strong authentication; role-based access; periodic access reviews; monitoring and alerting | Identity and access management owner|
+| R-03 | Unauthorized access | Confidentiality breach and inappropriate data use | 3 | 5 | 15 — High | Strong authentication; role-based access; periodic access reviews; monitoring and alerting | Identity and access management owner|
 
 
 
