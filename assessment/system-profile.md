@@ -32,11 +32,12 @@ Expected outputs
 * Key clinical details for clinician verification
 * A record of review and correction, where supported
 * The system must not be assumed to have access to every listed data source.
-* Actual integrations and data flows would require verification.
+* Actual integrations and data flows must be confirmed and would require verification with data owners
 
 5. Intended Use and Limitations
 
-The system supports clinical documentation. It is not intended to independently diagnose a patient, recommend treatment without appropriate clinical review, or replace professional judgment.
+The system supports clinical documentation. 
+It is not intended to independently diagnose a patient, recommend treatment without appropriate clinical review, or replace professional judgment.
 Potential failure modes include omitted symptoms, inaccurate summaries, fabricated details, biased outputs, and unauthorized disclosure of sensitive information.
 
 6. Initial Stakeholders
@@ -67,4 +68,4 @@ The assessment must establish the organization's role, intended purpose, deploym
 
 9. Assessment Boundary
 
-This profile is a simulated use cases . It does not represent a real healthcare deployment, a completed clinical safety evaluation, legal advice, certification, or independent assurance engagement.
+This profile is a simulated use cases . It does not represent a real healthcare deployment, a completed clinical safety evaluation and legal advice.
