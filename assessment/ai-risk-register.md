@@ -43,7 +43,7 @@ Proposed controls
 Proposed owner
 
 | Risk ID | Risk scenario | Potential Impact | Likelihood | Impact | Proposed Score | Proposed owner
-|---|---|---:|---:|---:|
+|---|---|---:|---:|---:|---|---|
 | R-01 | Inaccurate clinical summary | 3 | 5 | 15 — High |
 | R-02 | Patient data exposure | 3 | 5 | 15 — High |
 | R-03 | Unauthorized access | 3 | 5 | 15 — High |
