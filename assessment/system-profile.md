@@ -3,7 +3,7 @@ Healthcare AI System Profile
 1. Assessment Overview
 
 Assessment type: Simulated AI risk assessment
-Industry: Healthcare
+* Industry: Healthcare
 System type: AI-powered clinical note summarization
 Assessment status: Initial assessment 
 Primary methodology: NIST AI Risk Management Framework
