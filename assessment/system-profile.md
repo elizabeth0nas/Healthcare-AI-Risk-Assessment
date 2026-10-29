@@ -4,11 +4,11 @@ Healthcare AI System Profile
 
 Assessment type: Simulated AI risk assessment
 * Industry: Healthcare
-* System type: AI-powered clinical note summarization
+* System type: AI-powered clinical note summarization tool
 * Assessment status: Initial assessment 
 * Primary methodology: NIST AI Risk Management Framework
 
-2. System Purpose
+2. Purpose
 
 * The hypothetical system uses an AI model to summarize clinical visit notes into a structured draft for review by an authorized healthcare professional.
 * The system is intended to reduce administrative workload while preserving clinician oversight and the accuracy of patient documentation.
@@ -22,11 +22,12 @@ Assessment type: Simulated AI risk assessment
 
 4. Data Inputs and Outputs
 
-* Potential inputs
+Potential inputs
 * Clinical visit notes
 * Relevant patient history
 * Other approved clinical documentation
-* Expected outputs
+
+Expected outputs
 * Draft clinical summaries
 * Key clinical details for clinician verification
 * A record of review and correction, where supported
