@@ -44,103 +44,28 @@ Proposed owner
 
 | Risk ID | Risk scenario | Potential Impact | Likelihood | Impact | Inherent Score | Proposed controls | Proposed owner
 |---|---|---:|---:|---:|---|---|---|
-| R-01 | AI omits or changes clinically significant details in a summary | Inaccurate documentation & potential patient harm | 3 | 5 | High | Clinician verification; source-to-summary checks; testing against representative clinical cases; correction and escalation workflow | Clinical safety lead|
-| R-02 | Patient information is disclosed to an unauthorized party | Patient data exposure, regulatory breach and patient trust | 3 | 5 | High | Least-privilege access; encryption; approved data-processing arrangements; retention limits; access logging | Security and privacy leads|
-| R-03 | Unauthorized access | Confidentiality breach and inappropriate data use | 3 | 5 | High | Strong authentication; role-based access; periodic access reviews; monitoring and alerting | Identity and access management owner|
-
-R-04
-
-Malicious or untrusted input manipulates the model through prompt injection
-
-Sensitive data exposure or unreliable output
-
-3
-
-4
-
-12 — High
-
-Input and output handling; isolation of untrusted content; restricted tools and permissions; adversarial testing; human review
-
-AI security lead
-
-R-05
-
-Output quality varies across patient populations or clinical contexts
-
-Unequal documentation quality and potential downstream harm
-
-3
-
-5
-
-15 — High
-
-Representative evaluation data; subgroup performance analysis where lawful and appropriate; documented limitations; clinical review
-
-AI product and clinical leads
-
-R-06
-
-Clinicians over-rely on AI-generated summaries
-
-Errors are accepted without adequate review
-
-3
-
-5
-
-15 — High
-
-Clear draft labeling; mandatory review before record finalization; user training; audit of review and correction patterns
-
-Clinical operations lead
-
-R-07
-
-Insufficient logging prevents investigation of an AI-related incident
-
-Delayed response and inability to establish what occurred
-
-3
-
-4
-
-12 — High
-
-Privacy-conscious audit logging; incident response procedures; retention rules; periodic incident exercises
-
-Security operations lead
-
-R-08
-
-Responsibility for errors, monitoring, and escalation is unclear
-
-Delayed remediation and unmanaged risk
-
-3
-
-4
-
-12 — High
-
-Defined accountability; documented risk acceptance; escalation criteria; change management; periodic governance reviews
-
-AI governance lead
+| R-01 | AI omits or changes clinically significant details in a summary | Inaccurate documentation & potential patient harm | 3 | 5 | 15 - High| Clinician verification; source-to-summary checks; testing against representative clinical cases; correction and escalation workflow | Clinical safety lead|
+| R-02 | Patient information is disclosed to an unauthorized party | Patient data exposure, regulatory breach and patient trust | 3 | 5 | 15 - High | Least-privilege access; encryption; approved data-processing arrangements; retention limits; access logging | Security and privacy leads|
+| R-03 | Unauthorized access | Confidentiality breach and inappropriate data use | 3 | 5 | 15 - High| Strong authentication; role-based access; periodic access reviews; monitoring and alerting | Identity and access management owner|
+| R-04 | Malicious or untrusted input manipulates the model through prompt injection | Sensitive data exposure or unreliable output | 3 | 4 | 12 - High | Input and output handling; isolation of untrusted content; restricted tools and permissions; adversarial testing; human review | AI security lead|
+| R-05 | Output quality varies across patient populations or clinical contexts| Unequal documentation quality and potential downstream harm | 3 | 5 | 15 - High| Representative evaluation data; subgroup performance analysis where lawful and appropriate; documented limitations; clinical review | AI product and clinical leads|
+| R-06 | Clinicians over-rely on AI-generated summaries| Errors are accepted without adequate review | 3 | 5 | 15 - High| Clear draft labeling; mandatory review before record finalization; user training; audit of review and correction patterns | Clinical operations lead|
+| R-07 | Insufficient logging prevents investigation of an AI-related incident| Delayed response and inability to establish what occurred | 3 | 4 | 12 - High | Privacy-conscious audit logging; incident response procedures; retention rules; periodic incident exercises | Security operations lead|
+| R-08 | Responsibility for errors, monitoring, and escalation is unclear | Delayed remediation and unmanaged risk | 3 | 4 | 12 - High | Defined accountability; documented risk acceptance; escalation criteria; change management; periodic governance reviews | AI governance lead |
 
 4. Risk Treatment Principles
 
-Prioritize risks that could cause severe patient harm or expose sensitive information.
+-Prioritize risks that could cause severe patient harm or expose sensitive information.
 
-Assign each risk to an accountable owner.
+-Assign each risk to an accountable owner.
 
-Record the evidence required to verify that proposed controls operate effectively.
+-Record the evidence required to verify that proposed controls operate effectively.
 
-Reassess likelihood and impact after controls have been implemented and tested.
+-Reassess likelihood and impact after controls have been implemented and tested.
 
-Escalate risks that exceed the organization's approved risk tolerance.
+-Escalate risks that exceed the organization's approved risk tolerance.
 
-Do not treat a proposed control as implemented or effective until supporting evidence is reviewed.
+-Do not treat a proposed control as implemented or effective until supporting evidence is reviewed.
 
 5. Residual Risk Assessment
 
