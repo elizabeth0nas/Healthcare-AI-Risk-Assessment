@@ -12,41 +12,41 @@ This register documents hypothetical risks associated with an AI-powered clinica
 
 Likelihood and impact are scored from 1 to 5.
 
-Likelihood: 1 = Rare; 2 = Unlikely; 3 = Possible; 4 = Likely; 5 = Almost certain.
+* Likelihood: 1 = Rare; 2 = Unlikely; 3 = Possible; 4 = Likely; 5 = Almost certain.
 
-Impact: 1 = Negligible; 2 = Minor; 3 = Moderate; 4 = Major; 5 = Severe.
+* Impact: 1 = Negligible; 2 = Minor; 3 = Moderate; 4 = Major; 5 = Severe.
 
 Inherent risk score = Likelihood × Impact.
 
 Priority bands:
 
-1–4: Low
+* 1–4: Low
 
-5–9: Moderate
+* 5–9: Moderate
 
-10–16: High
+* 10–16: High
 
-17–25: Critical
+* 17–25: Critical
 
-These thresholds are a proposed example, not a universal standard. Actual scoring requires organizational risk criteria and supporting evidence.
+These thresholds are a proposed example, not a universal standard. 
+Actual scoring requires organizational risk criteria and supporting evidence.
 
 3. Risk Register
 
 ID
-
 Risk scenario
-
 Potential impact
-
 Likelihood
-
 Impact
-
 Inherent score
-
 Proposed controls
-
 Proposed owner
+
+| Risk ID | Risk scenario | Likelihood | Impact | Score |
+|---|---|---:|---:|---:|
+| R-01 | Inaccurate clinical summary | 3 | 5 | 15 — High |
+| R-02 | Patient data exposure | 3 | 5 | 15 — High |
+| R-03 | Unauthorized access | 3 | 5 | 15 — High |
 
 R-01
 
