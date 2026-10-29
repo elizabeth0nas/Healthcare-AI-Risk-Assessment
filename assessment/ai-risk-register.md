@@ -74,17 +74,14 @@ A reduction in risk must not be assumed merely because a control is documented.
 
 6. Framework Alignment
 
-NIST AI RMF: Governance, context mapping, risk measurement, and risk treatment.
-
-EU AI Act: Applicability and obligations require assessment of intended purpose, system role, and deployment context.
-
-ISO/IEC 27090: Relevant AI cybersecurity threats and risk-treatment considerations.
-
-ISO/IEC 42001: AI governance responsibilities, risk processes, monitoring, and continual improvement.
-
-CHAI: Healthcare AI assurance considerations, including safety, transparency, performance, and monitoring.
-
-HIPAA: Applicable privacy and security requirements, depending on organizational role and circumstances.
+- NIST AI RMF: Governance, context mapping, risk measurement, and risk treatment.
+- EU AI Act: Applicability and obligations require assessment of intended purpose, system role, and deployment context.
+- ISO/IEC 27090: Relevant AI cybersecurity threats and risk-treatment considerations.
+- ISO/IEC 42001: AI governance responsibilities, risk processes, monitoring, and continual improvement.
+- CHAI: Healthcare AI assurance considerations, including safety, transparency, performance, and monitoring.
+- HIPAA: Applicable privacy and security requirements, depending on organizational role and circumstances.
+- HITECH Act: Healthcare information security, breach notification, and HIPAA enforcement provisions.
+- HITRUST CSF: Integrated healthcare information security, privacy and compliance control framework.
 
 Detailed control-level mappings and requirement references will be documented separately.
 
