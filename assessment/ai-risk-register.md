@@ -79,6 +79,8 @@ A reduction in risk must not be assumed merely because a control is documented.
 
 Detailed control-level mappings and requirement references will be documented separately.
 
-7. Limitations
 
-All scenarios, scores, and proposed controls in this register are illustrative. They are not based on production telemetry, clinical validation, an actual security assessment, or a confirmed legal classification.
+
+
+_All scenarios, scores, and proposed controls in this register are illustrative. They are not based on production telemetry, clinical validation, an actual security assessment, or a confirmed legal classification.
+_
