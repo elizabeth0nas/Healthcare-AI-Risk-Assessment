@@ -4,7 +4,7 @@
 
 This register documents hypothetical risks associated with an AI-powered clinical note summarization system. It identifies potential impacts, proposed controls, accountability, and residual risk for further review.
 
-* Assessment status: Initial simulated assessment
+* Assessment status: Initial Assessment
 * Methodology: NIST AI RMF
 * Risk scoring: Qualitative scoring for portfolio demonstration only
 
@@ -32,7 +32,6 @@ These thresholds are a proposed example, not a universal standard.
 Actual scoring requires organizational risk criteria and supporting evidence.
 
 3. Risk Register
-
 ID
 Risk scenario
 Potential impact
