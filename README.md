@@ -1,5 +1,5 @@
 # Healthcare-AI-Risk-Assessment
-Healthcare AI Risk assessment aligned with NIST AI RMF, EU AI act, ISO/IEC 27090, ISO/IEC 42001, CHAI guidance, and applicable HIPAA requirements. _simulated_
+This Healthcare AI Risk assessment aligned with NIST AI RMF, EU AI act, ISO/IEC 27090, ISO/IEC 42001, CHAI guidance, and applicable HIPAA requirements. 
 
 **Purpose**
 This simulated use case that demonstrates a structured risk assessment for an AI powered healthcare application using the following regulations and frameworks such as NIST AI RMF, EU AI act, CHAI, HIPAA, etc. 
@@ -20,5 +20,7 @@ Below are the listed assessment frameworks and its applicability.
 * Propose mitigations and remediation cycle
 * Human oversight and escalation criteria
 * Executive summary and continous monitoring
+
+
 
 _This is a simiulated case study, not a real clinical assessment, compliance certification, or independent assurance engagement._
