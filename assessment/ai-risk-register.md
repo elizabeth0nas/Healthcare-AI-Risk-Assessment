@@ -82,5 +82,4 @@ Detailed control-level mappings and requirement references will be documented se
 
 
 
-_All scenarios, scores, and proposed controls in this register are illustrative. They are not based on production telemetry, clinical validation, an actual security assessment, or a confirmed legal classification.
-_
+_All scenarios, scores, and proposed controls in this register are illustrative. They are not based on production telemetry, clinical validation, an actual security assessment, or a confirmed legal classification._
