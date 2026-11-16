@@ -1,5 +1,5 @@
 # AI-Risk-Assessment
-This Healthcare AI Risk assessment aligned with NIST AI RMF, EU AI act, ISO/IEC 27090, ISO/IEC 42001, CHAI guidance, and applicable HIPAA requirements. 
+This Healthcare AI Risk assessment is an AI Documentation tool called ClinSCribe AI, aligned with regulations and industry standard frameworks such as NIST AI RMF, EU AI act, ISO/IEC 27090, ISO/IEC 42001, CHAI guidance, and applicable HIPAA requirements. 
 
 **Purpose**
 This simulated use case that demonstrates a structured risk assessment for an AI powered healthcare application using the following regulations and frameworks such as NIST AI RMF, EU AI act, CHAI, HIPAA, etc. 
