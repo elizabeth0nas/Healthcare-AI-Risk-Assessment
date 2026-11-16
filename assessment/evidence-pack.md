@@ -1,4 +1,4 @@
-# ClinScribe AI — Healthcare AI Evidence Pack
+# ClinScribe AI Healthcare AI Evidence Pack
 
 ## 1. Purpose
 
@@ -35,13 +35,10 @@ The purpose is to assess evidence reliability, identify inconsistencies, evaluat
 
 ## 3. Simulated Evidence Records
 
-### E-01 — Vendor Security Questionnaire
-
+### E-01 Vendor Security Questionnaire
 **Source:** AI vendor  
 **Question:** Is customer data used to train or improve your underlying AI models?
-
 **Vendor response:** No. Customer data is not used to train the underlying foundation model.
-
 **Additional statement:** Customer interactions may be processed to maintain service quality.
 
 **Missing information:**
@@ -54,11 +51,8 @@ The purpose is to assess evidence reliability, identify inconsistencies, evaluat
 **Initial assessment:** The response does not establish that customer information is never retained or used for secondary purposes.
 
 **Related risk:** R-02.
-
-### E-02 — Contract and Data Processing Extract
-
+### E-02 Contract and Data Processing Extract
 **Source:** Simulated vendor agreement
-
 **Relevant wording:**
 
 "The service provider may retain limited customer information where reasonably necessary for service improvement, troubleshooting, and operational support, subject to applicable contractual safeguards."
@@ -84,12 +78,9 @@ These statements are not necessarily contradictory, but the distinction between 
 
 **Related risks:** R-02, R-08.
 
-### E-03 — IT Architecture Notes
-
+### E-03 IT Architecture Notes
 **Source:** Internal IT discussion notes
-
 **Statement from IT:** ClinScribe AI connects to the organization's electronic health record environment.
-
 **Additional observation:** A technical architecture diagram references an external model provider.
 
 **Outstanding questions:**
@@ -101,12 +92,10 @@ These statements are not necessarily contradictory, but the distinction between 
 - Is the architecture diagram current?
 
 **Evidence limitation:** The diagram has no version number or approval date.
-
 **Initial assessment:** The actual data flow and third-party processing arrangements cannot yet be confirmed.
-
 **Related risks:** R-02, R-04, R-08.
 
-### E-04 — Clinician Feedback
+### E-04 Clinician Feedback
 
 **Source:** Simulated clinical user feedback
 
@@ -129,10 +118,8 @@ Two clinicians report that generated summaries have omitted medication changes a
 
 **Related risks:** R-01, R-05.
 
-### E-05 — Access Review Extract
-
+### E-05 Access Review Extract
 **Source:** Simulated internal access review
-
 **Observation:** A shared clinical support account appears in the access export.
 
 **Missing information:**
@@ -154,10 +141,8 @@ Two clinicians report that generated summaries have omitted medication changes a
 
 **Related risk:** R-03.
 
-### E-06 — Security Logging Review
-
+### E-06 Security Logging Review
 **Source:** Simulated security team discussion
-
 **Statement:** Application access logs are available.
 
 **However, the security team cannot confirm whether the following are captured:**
@@ -179,10 +164,8 @@ Two clinicians report that generated summaries have omitted medication changes a
 
 **Related risks:** R-07, R-08.
 
-### E-07 — Vendor Product Sheet
-
+### E-07 Vendor Product Sheet
 **Source:** Simulated vendor marketing documentation
-
 **Vendor claim:** "ClinScribe AI incorporates human-in-the-loop review to support safe clinical documentation."
 
 **Missing implementation details:**
@@ -204,7 +187,7 @@ Two clinicians report that generated summaries have omitted medication changes a
 
 **Related risks:** R-01, R-06.
 
-### E-08 — Simulated Incident Ticket
+### E-08 Simulated Incident Ticket
 
 **Ticket reference:** INC-008  
 **Description:** User reports an unexpected clinical detail in an AI-generated summary.
@@ -289,10 +272,9 @@ The evidence does not establish that the system is unsafe or non-compliant. Howe
 
 No residual risk reduction is assumed at this stage.
 
----
 
 ## 8. Assessment Limitations
 
-This evidence pack is entirely hypothetical. It does not represent an actual vendor assessment, security test, clinical validation, legal determination, or production incident.
+_This evidence pack is entirely hypothetical. It does not represent an actual vendor assessment, security test, clinical validation, legal determination, or production incident._
 
 All conclusions are provisional and would require corroborating evidence in a real assessment.
