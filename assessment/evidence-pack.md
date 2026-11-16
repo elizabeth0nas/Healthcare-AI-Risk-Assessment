@@ -228,7 +228,7 @@ The event should be reviewed to determine whether it indicates an output accurac
 
 ---
 
-## 5. AI Guardrail Assessment — Initial Position
+## 5. AI Guardrail Assessment Initial Position
 
 | Guardrail | Evidence reviewed | Initial position |
 |---|---|---|
