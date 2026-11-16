@@ -66,6 +66,6 @@ Potential failure modes include omitted symptoms, inaccurate summaries, fabricat
 This case study does not assume that HIPAA applies automatically, that the system qualifies as high-risk under the EU AI Act, or that any framework requirements have already been satisfied.
 The assessment must establish the organization's role, intended purpose, deployment context, applicable legal obligations, data flows, model architecture, and human oversight arrangements before reaching those conclusions.
 
-9. Assessment Boundary
 
-This profile is a simulated use cases . It does not represent a real healthcare deployment, a completed clinical safety evaluation and legal advice.
+
+_This profile is a simulated use cases . It does not represent a real healthcare deployment, a completed clinical safety evaluation and legal advice._
