@@ -1,4 +1,4 @@
-# ClinScribe AI Healthcare AI Evidence Pack
+# ClinScribe AI Evidence Pack
 
 ## 1. Purpose
 
